@@ -1,0 +1,80 @@
+1) Declare your name as a string and print its length in JS
+Answer:
+  let name = "Sriramprasath P"
+  Console.log(name.length)  // 15 
+
+2) Declare your first name as a string and print its first character
+Answer:
+  let first_name = "Sriramprasath"
+  Console.log(first_name[0])  // S
+
+3) Declare your first name as a string and print its last character
+Answer:
+  let first_name = "Sriramprasath"
+  Console.log(first_name[first_length.length -1])  // h
+
+4) What is the output of the following code
+    "apnacollage"+123
+Answer:
+   "apnacollage123"
+
+5) What are the lengths of an empty string & a string with a single spce?
+  Answer:
+     lengths of an empty string : 0
+     lengths of string with a single space : 1
+
+6) Create a number variable num with some value, then print "Good" if divisible by 10 else "Bad"
+Answer:
+  let num = 7;
+  if(num/10 == 0){
+      console.log("Good");
+  } else {
+      console.log("Bad");
+  }
+
+7) Take name and age as users input, then give a alert [name is age years old.]
+Answer:
+  let Name = prompt("Enter your Name")
+  let Age = prompt("Enter your age")
+  alert(`${Name} is ${Age} years old.`)
+
+8) A string is a golden string if it starts with the character 'A' or 'a' and has a total length greater than 5.
+For a given string find if it is golden or not.
+Answer:
+  let ip = "Apnacollage";
+  if(ip[0]==='a' || ip[0]==='A'){
+      console.log("Golden");
+  } else {
+      console.log("Not Golden");
+  }
+
+9) Write a switch statement to print the month in a quater
+                Quater1: Jan, Feb, Mar
+                Quater2: Apr, May, Jun
+                Quater3: Jul, Aug, Sep
+                Quater4: Oct, Nov, Dec
+Answer:
+  let quat = 1;
+  switch(quat){
+      case 1:
+          console.log("Jan, Feb, Mar");
+          break;
+      case 2:
+          console.log("Apr, May, Jun");
+          break;
+      case 3:
+          console.log("Jul, Aug, Sep");
+          break;
+      case 4:
+          console.log("Oct, Nov, Dec");
+          break;
+      default:
+          console.log("Not a Quater!");
+  
+  }
+
+10) Program to find the largest of three numbers
+Answer:
+
+11) Check is two numbers havesame last digit
+Answer:
