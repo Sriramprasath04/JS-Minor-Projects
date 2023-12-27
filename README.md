@@ -1,5 +1,6 @@
 # JS Minor Tasks
 
+- ⬛ Practice Qns
 - ⬛ Build a Calculator Application (without the UI) using Arithmetic operators
 - ⬛ Build a Average Marks Generator using Arithmetic operators
 - ⬛ Build a NavBar that changes the background color after the page is scrolled 100px
