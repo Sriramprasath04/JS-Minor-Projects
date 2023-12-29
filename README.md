@@ -1,7 +1,19 @@
 # JS Minor Tasks
 
-- ✔️ Build a Calculator Application (without UI) using Arithmetic operators
-- ⬛ Build a Average Marks Generator using Arithmetic operators
+**Using Basic concepts**
+- ✔️ Build a Calculator Application (without UI) using Arithmetic operators.
+- ⬛ Build a Average Marks Generator using Arithmetic operators.
+- ⬛ Build a BMI Calculator using Arithmetic operators.
+- ⬛ Build a Grading System based on Marks using Switch-case statements.
+
+**Using Functions Concept**
+- ⬛ function to check whether the string is palindrome or not.
+- ⬛ function to return the string with letters in alphabetical order.
+- ⬛ function to calculate the Average Mark passed in an Array.
+- ⬛ various string methods in JS <a href="www.programiz.com/javascript/string">reference</a>
+- ⬛ various math methods in JS <a href="www.programiz.com/javascript/math">reference</a>
+
+  
 - ⬛ Build a NavBar that changes the background color after the page is scrolled 100px
 - ⬛ Build a Toggle NavBar Menu with a Hamburger menu (<a href="https://www.w3schools.com/howto/howto_js_mobile_navbar.asp">Reference</a>)
 - ⬛ Build a working Calculator Application
