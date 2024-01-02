@@ -3,7 +3,7 @@
 **Using Basic concepts**
 - ✔️ Build a Calculator Application (without UI) using Arithmetic operators.
 - ✔️ Build a Average Marks Generator using Arithmetic operators.
-- ⬛ Build a BMI Calculator using Arithmetic operators.
+- ✔️ Build a BMI Calculator using Arithmetic operators.
 - ⬛ Build a Grading System based on Marks using Switch-case statements.
 
 **Using Functions Concept**
