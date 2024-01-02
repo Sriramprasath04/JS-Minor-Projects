@@ -7,7 +7,7 @@
 - ⬛ Build a Grading System based on Marks using Switch-case statements.
 
 **Using Functions Concept**
-- ⬛ function to check whether the string is palindrome or not.
+- ✔️ function to check whether the string is palindrome or not.
 - ⬛ function to return the string with letters in alphabetical order.
 - ⬛ function to calculate the Average Mark passed in an Array.
 - ⬛ various string methods in JS <a href="www.programiz.com/javascript/string">reference</a>
