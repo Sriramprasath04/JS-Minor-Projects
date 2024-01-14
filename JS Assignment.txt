@@ -75,6 +75,23 @@ Answer:
 
 10) Program to find the largest of three numbers
 Answer:
+   let val1 = Number(prompt("Enter a Value: "));
+  let val2 = Number(prompt("Enter a Value: "));
+  let val3 = Number(prompt("Enter a Value: "));
+  if(val1>val2 && val1>val3){
+    alert("The "+ val1 +" is the Largest");
+  } else if (val2>val1 && val2>val3) {
+    alert("The "+ val2 +" is the Largest");
+  } else {
+    alert("The "+ val3 +" is the Largest");
+  }
 
-11) Check is two numbers havesame last digit
+11) Check is two numbers have same last digit
 Answer:
+  let val1 = Number(prompt("Enter a Value: "));
+  let val2 = Number(prompt("Enter a Value: "));
+  if((val1%10) == (val2%10)){
+    alert("The last digits are same!");
+  } else {
+    alert("The last digits are not same :(");
+  }
