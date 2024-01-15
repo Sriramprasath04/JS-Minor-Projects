@@ -95,3 +95,19 @@ Answer:
   } else {
     alert("The last digits are not same :(");
   }
+
+12) Sort the String in Alphebetical order
+Answer:
+  let ip = prompt("Enter the input");
+  let op = ip.split("").sort().join("");
+  console.log(op);
+13) Averaage of an Array
+Answer:
+  let sum = 0;
+  const arr = [1,2,3,4,5,6,7,8,9,10];
+  for(let elements of arr){
+    sum = sum+elements;
+  }
+  
+  let avg = sum/arr.length;
+  console.log(avg);
