@@ -21,6 +21,8 @@
 - ⬛ Build an Image Slider with Two Buttons for the Left and Right Side (<a href="https://www.w3schools.com/howto/howto_js_slideshow.asp">Reference</a>)
 
 **DOM Manipulation**
+- ✔️ Word Counter
+
 
 **Event Listeners**
 - ✔️ Random Emoji.
