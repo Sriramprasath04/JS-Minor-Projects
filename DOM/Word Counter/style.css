@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(6, 33, 64);
+}
+
+h1{
+    margin-top: 10px;
+}
+
+.container{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+    width: 400px;
+    background: whitesmoke;
+    text-align: center;
+}
+
+.ipbox{
+    width: 80%;
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+}
+
+button{
+    padding: 12px 32px;
+    border-radius: 5px solid;
+    background: rgb(2, 170, 2);
+    color: aliceblue;
+    border: 0;
+    text-transform: uppercase;
+}
+
+button:hover{
+    background: rgb(14, 117, 14);
+    color: aliceblue;
+    transform: scale(1.1);
+}
+
+#op{
+    background-color: white;
+    padding: 4px;
+}
